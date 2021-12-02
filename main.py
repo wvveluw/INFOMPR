@@ -9,5 +9,4 @@ img_size = 28
 plt.imshow(digits[0].reshape(img_size, img_size))
 plt.show()
 
-
 print(mnist_data)
