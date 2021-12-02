@@ -1,3 +1,6 @@
+# local test files
+local_test*
+
 # large (data) files
 test_file.csv
 
