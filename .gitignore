@@ -1,5 +1,6 @@
 # large (data) files
-mnist.csv
+mnist
+test_file
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
